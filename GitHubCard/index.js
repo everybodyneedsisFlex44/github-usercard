@@ -28,6 +28,8 @@
     user, and adding that card to the DOM.
 */
 
+
+
 const followersArray = [];
 
 /*
